@@ -9,7 +9,8 @@
 body {
   background: url("../images/pattern-background-desktop.svg");
   background-repeat: no-repeat, repeat;
-  background-size: cover;
+  background-size: auto;
+  background-size: 100%;
   background-color: #e0e8ff;
   height: 100vh;
   display: flex;
